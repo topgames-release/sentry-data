@@ -1,3 +1,4 @@
+time,uid,event.type,project,user.display,timestamp
 12, ou_e142da4fe0a93f8f95e99da5dba03b9f,default,topbi-release,,2021-04-16T15:59:30+00:00
 6191, ou_9949307d54cb9ce799f064f27c9be774,default,topbi-release,,2021-04-16T15:59:23+00:00
 6796, ou_9949307d54cb9ce799f064f27c9be774,default,topbi-release,,2021-04-16T15:59:22+00:00
